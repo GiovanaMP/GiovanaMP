@@ -1,5 +1,5 @@
 ## Olá! eu sou a Giovana 👋
-- 💻 Atuando como  **Desenvolvedora FullStack**, na 🧬**Gogenetic**;
+- 💻 Atuando como  **Desenvolvedora FullStack**;
 - 🚀 Avançando em **Java**.
 <div>
   <div style = "display:inline_block"><br>
