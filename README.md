@@ -1,7 +1,6 @@
 ## Olá! eu sou a Giovana 👋
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**; 
-- 💻 Atuando como  **Analista de Sistemas Júnior **, na 🧬**Gogenetic**;
-- 🚀 Avançando em **JavaScript e TypeScript**.
+- 💻 Atuando como  **Desenvolvedora FullStack**, na 🧬**Gogenetic**;
+- 🚀 Avançando em **Java**.
 <div>
   <div style = "display:inline_block"><br>
     <img align= "center" alt = "python" heigth ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
